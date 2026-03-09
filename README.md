@@ -1,5 +1,5 @@
 Hi, I’m Rahul Lokhande
-💻 Full-Stack Developer | MERN Stack Enthusiast | Tech Innovator
+💻 MERN Stack Enthusiast | Tech Innovator
 
 🚀 Passionate about crafting impactful web solutions that merge creativity with functionality.
 
